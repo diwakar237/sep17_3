@@ -27,6 +27,3 @@ pipeline {
         }
     }
 }
-```[cite: 1]
-
-Copy this entire block, replace the contents of your `Jenkinsfile` with it, and push the changes to GitHub. When you click **Build Now** in Jenkins, it will bypass the system settings and use the exact location of your Python installation directly.
